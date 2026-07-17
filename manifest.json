@@ -1,4 +1,17 @@
 {
-  "launcherVersion": 1,
-  "packs": []
+  "launcherVersion": "1.0.0",
+  "packs": [
+    {
+      "id": "main",
+      "name": "ZPL Modpack",
+      "description": "Основная сборка",
+      "version": "67.42",
+      "minecraftVersion": "1.21.1",
+      "loader": "Fabric",
+      "icon": "",
+      "banner": "",
+      "size": 1668250829,
+      "downloadUrl": "https://github.com/amahasler/ZPL-Launcher-CDN/releases/download/v1.0.0/sborka.zip"
+    }
+  ]
 }
